@@ -36,8 +36,24 @@
 
 #p6 {
   color: black;
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
   background-color: blue;
   text-shadow: 10px 12px white;
+}
+
+#p7 {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px black;
+}
+
+#titulo {
+  color: red;
+  font-size: 80px;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 10px 12px black;
 }
