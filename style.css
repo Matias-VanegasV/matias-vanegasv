@@ -1,4 +1,4 @@
-h1 {
+#p1 {
   color: yellow;
   font-size: 40px;
   text-align: center;
@@ -6,35 +6,35 @@ h1 {
   text-shadow: 10px 12px black;
 }
 
-h2 {
+#p2 {
   color: blue;
   font-size: 20px;
   text-align: center;
   background-color: green;
 }
 
-h3 {
+#p3 {
   color: white;
   font-size: 20px;
   text-align: center;
   background-color: orange;
 }
 
-h4 {
+#p4 {
   color: yellow;
   font-size: 20px;
   text-align: center;
   background-color: black;
 }
 
-h5 {
+#p5 {
   color: blue;
   font-size: 20px;
   text-align: center;
   background-color: black;
 }
 
-h6 {
+#p6 {
   color: black;
   font-size: 50px;
   text-align: center;
