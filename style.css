@@ -4,3 +4,17 @@
   margin-right: auto;
   filter: grayscale(80%) drop-shadow(2px 2px red);
 }
+
+#imagen2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80%) drop-shadow(2px 2px blue);
+}
+
+#imagen3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(80%) drop-shadow(2px 2px green);
+}
