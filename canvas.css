@@ -1,18 +1,28 @@
 body {
-  background-color: green;
+  background: greenyellow;
 }
 h1 {
+  font-family: Courier;
+  font-size: 70px;
+  color: red;
+  text-shadow: -4px 2px green;
   text-align: center;
+  text-transform: uppercase;
+  background: grey;
 }
-canvas {
-  background-color: blue;
-  position: relative;
-  left: 35px;
-  border: 20px solid black;
+p {
+  font-family: courier;
+  font-size: 22.5px;
+  text-align: center;
+  font-weight: bold;
 }
-.canvaret {
-  background-color: purple;
+#canvas1 {
+  background: rgb(103, 150, 33);
   position: relative;
-  right: 30px;
-  border: 20px solid purple;
+  top: 22px;
+}
+#canvas10 {
+  background: rgb(138, 195, 196);
+  position: relative;
+  bottom: -70px;
 }
