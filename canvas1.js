@@ -7,5 +7,5 @@ Japon.src =
 Japon.addEventListener("load", dibujar);
 
 function dibujar() {
-  papel.drawImage(Japon, -10, 100);
+  papel.drawImage(Japon, 200, 200, 300, 100);
 }

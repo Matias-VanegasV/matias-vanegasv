@@ -7,5 +7,5 @@ Paisaje.src =
 Paisaje.addEventListener("load", dibujar);
 
 function dibujar() {
-  papel.drawImage(Paisaje, -30, 100);
+  papel.drawImage(Paisaje, 600, 0, 100, 100);
 }
