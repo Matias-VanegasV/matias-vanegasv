@@ -1,0 +1,13 @@
+body {
+  background-color: brown;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  background-color: black;
+  position: relative;
+  top: 200px;
+  left: 400px;
+  border: 20px solid white;
+}
