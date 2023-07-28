@@ -1,13 +1,13 @@
 body {
-  background-color: brown;
+  background-color: yellow;
 }
 h1 {
   text-align: center;
 }
 canvas {
-  background-color: black;
+  background-color: blue;
   position: relative;
   top: 200px;
   left: 400px;
-  border: 20px solid white;
+  border: 20px solid black;
 }
